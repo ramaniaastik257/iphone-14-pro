@@ -1,0 +1,1830 @@
+@import url("https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&family=Raleway:wght@600;700&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Raleway", sans-serif;
+  color: #cecece;
+}
+
+.iphone-bg {
+  background-color: #000000;
+  width: 100%;
+  height: 790px;
+  padding: 0.1px;
+}
+.iphone-text {
+  color: white;
+  margin-top: 110px;
+  margin-left: 250px;
+}
+.text-1 {
+  font-size: 65px;
+  padding: 0.1px;
+}
+.video-1 {
+  position: absolute;
+  background-position: 100% 100%;
+  width: 100%;
+  height: 600px;
+}
+.iPhone-14-Pro-Max-bg {
+  background-color: #000000;
+  color: white;
+  margin-top: -5px;
+}
+.bg-2 {
+  background-color: #0c0c0f;
+  width: 100%;
+  height: 260.19px;
+  margin-top: -5px;
+  padding: 0.1px;
+}
+.iPhone-14-Pro-Max-text {
+  text-align: center;
+  margin-top: 70px;
+  color: #cecece;
+}
+.text-2 {
+  font-size: 35px;
+}
+.text-3 {
+  margin-top: 20px;
+  font-size: 22px;
+}
+.button-1 {
+  background-color: #006edb;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  margin-top: 30px;
+  border-radius: 50px;
+}
+.background {
+  background-color: #161617;
+  width: 100%;
+  height: 33219px;
+  padding: 0.1px;
+}
+.Meet-Dynamic-Island-bg {
+  background-color: #000000;
+  width: 100%;
+  height: 2588px;
+  padding: 0.1px;
+}
+.Meet-Dynamic-Island-text {
+  color: #cecece;
+  margin-left: 250px;
+  margin-top: 50px;
+}
+.Meet-Dynamic-Island-text-1 {
+  font-size: 55px;
+}
+.Meet-Dynamic-Island-text-2 {
+  font-weight: bold;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-size: 21px;
+  margin-top: 27px;
+}
+.Meet-Dynamic-Island-image-1 {
+  background-image: url(./image/12.gif);
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 661px;
+  height: 602px;
+  margin-left: 380px;
+  margin-top: 50px;
+}
+.Meet-Dynamic-Island-text-3 {
+  color: #cecece;
+  font-size: 21px;
+  margin-left: 390px;
+  margin-top: 430px;
+  display: inline-block;
+  font-weight: bold;
+}
+.Meet-Dynamic-Island-image-2 {
+  background-image: url(./image/28.jpg);
+  background-position: 100% 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 330px;
+  height: 670px;
+  display: inline-block;
+  margin-top: 130px;
+  position: absolute;
+  margin-left: 80px;
+}
+.Meet-Dynamic-Island-text-4 {
+  color: #cecece;
+  margin-top: 480px;
+  margin-left: 300px;
+  font-size: 21px;
+  font-weight: bold;
+}
+.video-2 {
+  position: absolute;
+  background-position: 100% 100%;
+  width: 100%;
+  height: 600px;
+  margin-top: 10px;
+}
+/* .Meet-Dynamic-Island-image-3 {
+  background-image: url(./image/3.jpg);
+  background-position: 100% 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 1066px;
+  height: 574px;
+  margin-top: 70px;
+  margin-left: 170px;
+} */
+.Main-camera-bg {
+  background-color: #000000;
+  width: 100%;
+  height: 4261px;
+  margin-top: 50px;
+  padding: 0.1px;
+}
+.Main-camera-image-1 {
+  background-image: url(./image/4.jpg);
+  background-position: 100% 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 1273px;
+  height: 800px;
+  margin-left: 150px;
+  padding: 0.1px;
+}
+.Main-camera-text-1 {
+  font-size: 60px;
+  margin-left: 70px;
+  margin-top: 50px;
+}
+.Main-camera-image-text {
+  color: #cecece;
+  margin-top: 150px;
+  margin-left: 300px;
+}
+.Main-camera-text-2 {
+  font-size: 21px;
+  font-weight: bold;
+  display: inline-block;
+  margin-top: 200px;
+}
+.Main-camera-image-2 {
+  background-image: url(./image/5.jpg);
+  background-position: 100% 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 410px;
+  height: 547px;
+  display: inline-block;
+  position: absolute;
+  margin-left: 90px;
+}
+.Main-camera-image-text-2 {
+  margin-top: 450px;
+  margin-left: 300px;
+}
+.Main-camera-image-3 {
+  background-image: url(./image/6.jpg);
+  background-position: 100% 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 507px;
+  height: 380px;
+  display: inline-block;
+}
+.Main-camera-image-4 {
+  background-image: url(./image/7.jpg);
+  background-position: 100% 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 280px;
+  height: 380px;
+  display: inline-block;
+  margin-left: 13px;
+}
+.Main-camera-text-3 {
+  color: #86868b;
+  margin-top: 50px;
+  font-weight: bold;
+  font-size: 23px;
+  margin-left: 210px;
+}
+.Main-camera-text-4 {
+  color: #cecece;
+  margin-top: 7px;
+  font-size: 20px;
+  margin-left: 210px;
+  font-weight: bold;
+}
+.Main-camera-image-text-3 {
+  margin-left: 300px;
+  margin-top: 200px;
+}
+.Main-camera-image-5 {
+  background-image: url(./image/8.jpg);
+  background-position: 100% 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 410px;
+  height: 547px;
+  display: inline-block;
+}
+.Main-camera-text-5 {
+  position: absolute;
+  color: #86868b;
+  display: inline-block;
+  font-size: 20px;
+  font-weight: bold;
+  margin-left: 80px;
+}
+.Main-camera-image-text-4 {
+  margin-left: 300px;
+  margin-top: 150px;
+}
+.Main-camera-text-6 {
+  color: #cecece;
+  font-size: 19px;
+  font-weight: bold;
+  display: inline-block;
+  margin-top: 300px;
+}
+.Main-camera-image-6 {
+  background-image: url(./image/9.jpg);
+  background-position: 100% 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 306px;
+  height: 663px;
+  display: inline-block;
+  position: absolute;
+  margin-left: 80px;
+}
+.Main-camera-text-no-1 {
+  display: inline-block;
+  color: #86868b;
+  margin-top: 330px;
+  margin-left: 300px;
+}
+.Main-camera-text-7 {
+  font-size: 23px;
+  font-weight: bold;
+}
+.Main-camera-text-8 {
+  font-size: 35px;
+  font-weight: bold;
+  color: #cecece;
+  margin-top: 8px;
+}
+.Main-camera-text-9 {
+  font-size: 23px;
+  font-weight: bold;
+  margin-top: 8px;
+}
+.Main-camera-text-no-2 {
+  display: inline-block;
+  position: absolute;
+  color: #86868b;
+  margin-top: 410px;
+  margin-left: 250px;
+}
+.Main-camera-text-10 {
+  font-size: 23px;
+  font-weight: bold;
+}
+.Main-camera-text-11 {
+  font-size: 35px;
+  font-weight: bold;
+  color: #cecece;
+  margin-top: 8px;
+}
+.Main-camera-text-12 {
+  font-size: 23px;
+  font-weight: bold;
+  margin-top: 8px;
+}
+.Main-camera-text-no-3 {
+  color: #86868b;
+  margin-top: 50px;
+  margin-left: 300px;
+}
+.Main-camera-text-13 {
+  font-size: 23px;
+  font-weight: bold;
+}
+.Main-camera-text-14 {
+  font-size: 35px;
+  font-weight: bold;
+  color: #cecece;
+  margin-top: 8px;
+}
+.Main-camera-text-15 {
+  font-size: 23px;
+  font-weight: bold;
+  margin-top: 8px;
+}
+.The-mastermind-behind-it-all-bg {
+  background-color: #000000;
+  width: 100%;
+  height: 1064px;
+  margin-top: 50px;
+  padding: 0.1px;
+}
+
+.The-mastermind-behind-it-image {
+  background-image: url(./image/11.jpg);
+  background-position: 100% 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 264px;
+  height: 264px;
+  margin-left: 500px;
+  margin-top: 150px;
+}
+.The-mastermind-behind-it-text-1 {
+  color: #cecece;
+  margin-top: 30px;
+  margin-left: 500px;
+  font-size: 50px;
+}
+.The-mastermind-behind-it-all-text-No-1 {
+  display: inline-block;
+  color: #cecece;
+  margin-top: 100px;
+  margin-left: 200px;
+}
+.The-mastermind-behind-it-all-text-1 {
+  font-size: 33px;
+  font-weight: bold;
+}
+.The-mastermind-behind-it-all-text-2 {
+  font-size: 20px;
+  font-weight: bold;
+  color: #86868b;
+}
+.The-mastermind-behind-it-all-text-No-2 {
+  display: inline-block;
+  color: #cecece;
+  margin-top: 100px;
+  position: absolute;
+  margin-left: 100px;
+}
+.The-mastermind-behind-it-all-text-3 {
+  font-size: 33px;
+  font-weight: bold;
+}
+.The-mastermind-behind-it-all-text-4 {
+  font-size: 20px;
+  font-weight: bold;
+  color: #86868b;
+}
+.The-mastermind-behind-it-all-text-No-3 {
+  display: inline-block;
+  color: #cecece;
+  margin-top: 40px;
+  position: absolute;
+  margin-left: 460px;
+}
+.The-mastermind-behind-it-all-text-5 {
+  margin-top: 10px;
+  font-size: 33px;
+  font-weight: bold;
+}
+.The-mastermind-behind-it-all-text-6 {
+  font-size: 20px;
+  font-weight: bold;
+  color: #86868b;
+}
+.The-mastermind-behind-it-all-text-7 {
+  font-size: 20px;
+  font-weight: bold;
+  color: #86868b;
+}
+.The-mastermind-behind-it-all-text-No-4 {
+  color: #cecece;
+  margin-top: 50px;
+  position: absolute;
+  margin-left: 200px;
+}
+.The-mastermind-behind-it-all-text-8 {
+  margin-top: 10px;
+  font-size: 33px;
+  font-weight: bold;
+}
+.The-mastermind-behind-it-all-text-9 {
+  font-size: 20px;
+  font-weight: bold;
+  color: #86868b;
+}
+.The-mastermind-behind-it-all-text-10 {
+  font-size: 20px;
+  margin-top: 20px;
+  font-weight: bold;
+  color: #86868b;
+}
+.The-mastermind-behind-it-all-text-No-5 {
+  color: #cecece;
+  margin-top: 100px;
+  position: absolute;
+  margin-left: 540px;
+}
+.The-mastermind-behind-it-all-text-11 {
+  font-size: 33px;
+  font-weight: bold;
+}
+.The-mastermind-behind-it-all-text-12 {
+  font-size: 20px;
+  font-weight: bold;
+  color: #86868b;
+}
+.The-mastermind-behind-it-all-text-No-6 {
+  color: #cecece;
+  margin-top: 100px;
+  position: absolute;
+  margin-left: 895px;
+}
+.The-mastermind-behind-it-all-text-13 {
+  font-size: 33px;
+  font-weight: bold;
+}
+.The-mastermind-behind-it-all-text-14 {
+  font-size: 20px;
+  font-weight: bold;
+  color: #86868b;
+}
+.A-battery-bg {
+  background-color: #000000;
+  width: 100%;
+  height: 1660px;
+  margin-top: 50px;
+  padding: 0.1px;
+}
+.A-battery-logo {
+  background-image: url(./image/15.jpg);
+  background-position: 100% 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 207px;
+  height: 103px;
+  margin-left: 450px;
+  margin-top: 150px;
+}
+.A-battery-text-1 {
+  color: #cecece;
+  margin-left: 440px;
+  margin-top: 20px;
+  font-size: 55px;
+  font-weight: bold;
+}
+.A-battery-text-no-1 {
+  display: inline-block;
+  color: #cecece;
+  margin-left: 300px;
+  margin-top: 130px;
+}
+.A-battery-text-2 {
+  font-size: 22px;
+  font-weight: bold;
+  color: #86868b;
+}
+.A-battery-text-3 {
+  font-size: 40px;
+  margin-top: 5px;
+}
+.A-battery-text-4 {
+  font-size: 22px;
+  font-weight: bold;
+  color: #86868b;
+  margin-top: 5px;
+}
+.A-battery-text-no-2 {
+  display: inline-block;
+  color: #cecece;
+  margin-left: 170px;
+  margin-top: 100px;
+}
+.A-battery-text-5 {
+  font-size: 22px;
+  font-weight: bold;
+  color: #86868b;
+}
+.A-battery-text-6 {
+  font-size: 40px;
+  margin-top: 5px;
+}
+.A-battery-text-7 {
+  font-size: 22px;
+  font-weight: bold;
+  color: #86868b;
+  margin-top: 5px;
+}
+.A-battery-text-8 {
+  color: #cecece;
+  text-align: center;
+  margin-top: 200px;
+  font-size: 21px;
+  font-weight: bold;
+}
+.A-battery-image {
+  background-image: url(./image/16.jpg);
+  background-position: 100% 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 330px;
+  height: 702px;
+  margin-left: 555px;
+  margin-top: 40px;
+}
+.Pro-video-bg {
+  background-color: #000000;
+  width: 100%;
+  height: 2608px;
+  margin-top: 50px;
+  padding: 0.1px;
+}
+.Pro-video-image {
+  background-image: url(./image/18.jpg);
+  background-position: 100% 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 90%;
+  height: 900px;
+  margin-left: 10%;
+  padding: 0.1px;
+}
+.Pro-video-text-no-1 {
+  color: #cecece;
+  margin-top: 20px;
+  margin-left: 50px;
+}
+.Pro-video-text-1 {
+  font-size: 30px;
+}
+.Pro-video-text-2 {
+  font-size: 45px;
+}
+.Pro-video-image-text {
+  margin-left: 300px;
+  margin-top: 200px;
+}
+.Pro-video-text-3 {
+  color: #cecece;
+  font-size: 19px;
+}
+.Pro-video-image-1 {
+  background-image: url(./image/19.jpg);
+  background-position: 100% 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 670px;
+  height: 330px;
+  margin-top: 40px;
+  margin-left: 20px;
+}
+.Pro-video-image-2 {
+  background-image: url(./image/20.jpg);
+  background-position: 100% 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 800px;
+  height: 450px;
+  margin-left: 300px;
+  margin-top: 150px;
+}
+.Pro-video-text-no-2 {
+  display: inline-block;
+  margin-top: 50px;
+  margin-left: 320px;
+  font-size: 19px;
+}
+.Pro-video-text-4 {
+  color: #cecece;
+}
+.Pro-video-text-no-3 {
+  display: inline-block;
+  margin-top: 50px;
+  margin-left: 100px;
+  font-size: 19px;
+}
+.Pro-video-text-5 {
+  color: #cecece;
+}
+.Pro-video-image-text-3 {
+  margin-left: 120px;
+  margin-top: 60px;
+}
+.Pro-video-text-no-4 {
+  display: inline-block;
+  margin-top: 100px;
+  margin-left: 100px;
+  font-size: 19px;
+}
+.Pro-video-text-6 {
+  color: #cecece;
+}
+.Pro-video-text-7 {
+  color: #cecece;
+  font-size: 30px;
+  margin-top: 10px;
+}
+.Pro-video-text-no-5 {
+  display: inline-block;
+  margin-top: 100px;
+  margin-left: 100px;
+  font-size: 19px;
+}
+.Pro-video-text-8 {
+  color: #cecece;
+}
+.Pro-video-text-9 {
+  color: #cecece;
+  font-size: 30px;
+  margin-top: 10px;
+}
+.video-shots-bg {
+  background-color: #000000;
+  width: 100%;
+  height: 2450px;
+  margin-top: 50px;
+  padding: 0.1px;
+}
+.video-shots-image {
+  background-image: url(./image/21.jpg);
+  background-position: 100% 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 90%;
+  height: 900px;
+  margin-left: 10%;
+  padding: 0.1px;
+}
+.video-shots-text-image {
+  margin-top: 180px;
+}
+.video-shots-text-no-1 {
+  display: inline-block;
+  color: #cecece;
+  margin-left: 100px;
+  margin-top: 50px;
+}
+.video-shots-text-1 {
+  font-size: 25px;
+}
+.video-shots-text-2 {
+  font-size: 50px;
+  margin-top: 15px;
+}
+.video-shots-text-no-2 {
+  display: inline-block;
+  color: #cecece;
+  margin-left: 300px;
+  margin-top: 0;
+  /* text-align: center; */
+}
+.video-shots-text-3 {
+  display: inline-block;
+  font-size: 19px;
+  margin-top: 290px;
+  margin-left: 80px;
+}
+.video-shots-image-1 {
+  display: inline-block;
+  position: absolute;
+  background-image: url(./image/22.gif);
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 330px;
+  height: 670px;
+  margin-left: 120px;
+}
+.video-shots-text-no-3 {
+  color: #cecece;
+  margin-left: 0px;
+  margin-top: 470px;
+  /* text-align: center; */
+}
+.video-shots-text-4 {
+  font-size: 19px;
+  margin-top: 150px;
+  margin-left: 300px;
+}
+.video-shots-image-2 {
+  background-image: url(./image/29.gif);
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 670px;
+  height: 330px;
+  margin-left: 120px;
+  margin-top: 50px;
+}
+.Always-On-display-bg {
+  background-color: #000000;
+  width: 100%;
+  height: 2407px;
+  margin-top: 50px;
+  padding: 0.1px;
+}
+.Always-On-display-no-1-text {
+  color: #cecece;
+  margin-left: 500px;
+  margin-top: 120px;
+}
+.Always-On-display-text-1 {
+  font-size: 45px;
+  font-weight: bold;
+}
+.Always-On-display-no-2 {
+  display: inline-block;
+  margin-left: 400px;
+  margin-top: 100px;
+}
+.Always-On-display-image-1 {
+  display: inline-block;
+  background-image: url(./image/25.gif);
+  background-position: 100% 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 330px;
+  height: 670px;
+}
+.Always-On-display-no-2-text {
+  margin-top: 200px;
+  margin-left: 50px;
+  position: absolute;
+  display: inline-block;
+}
+.Always-On-display-text-2 {
+  display: inline-block;
+  font-size: 17px;
+  font-weight: bold;
+}
+.Always-On-display-text-3 {
+  margin-top: 50px;
+  font-size: 17px;
+  font-weight: bold;
+  color: #86868b;
+}
+.Always-On-display-image-2 {
+  background-image: url(./image/30.jpg);
+  background-position: 100% 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 797px;
+  height: 300px;
+  margin-left: 320px;
+  margin-top: 200px;
+}
+.Always-On-display-text-4 {
+  margin-top: 50px;
+  font-size: 17px;
+  font-weight: bold;
+  margin-left: 400px;
+  color: #86868b;
+}
+.Always-On-display-no-4 {
+  display: inline-block;
+  margin-top: 150px;
+  margin-left: 350px;
+}
+.Always-On-display-text-5 {
+  position: absolute;
+  display: inline-block;
+  color: #86868b;
+  font-size: 17px;
+  font-weight: bold;
+  margin-top: 240px;
+}
+.Always-On-display-image-3 {
+  position: absolute;
+  display: inline-block;
+  background-image: url(./image/31.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 767px;
+  height: 573px;
+  margin-left: 200px;
+}
+.smartphone-glass-bg {
+  background-color: #000000;
+  width: 100%;
+  height: 1041.59px;
+  margin-top: 50px;
+  padding: 0.1px;
+}
+.smartphone-glass-text-no-1 {
+  margin-left: 170px;
+  margin-top: 50px;
+}
+.smartphone-glass-text-1 {
+  color: #86868b;
+  font-size: 24px;
+  font-weight: bold;
+}
+.smartphone-glass-text-2 {
+  color: #cecece;
+  font-size: 50px;
+  margin-top: 20px;
+}
+.smartphone-glass-text-no-2 {
+  margin-top: 130px;
+  margin-left: 170px;
+}
+.smartphone-glass-text-3 {
+  display: inline-block;
+  font-size: 18px;
+  font-weight: bold;
+  color: #86868b;
+}
+.smartphone-glass-text-4 {
+  display: inline-block;
+  font-size: 18px;
+  font-weight: bold;
+  color: #cecece;
+  margin-left: 70px;
+}
+.smartphone-glass-image-1 {
+  background-image: url(./image/32.png);
+  background-position: 50%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 804px;
+  height: 604px;
+  margin-left: 300px;
+  margin-top: 28px;
+}
+.water-resistance-bg {
+  background-color: #000000;
+  width: 100%;
+  height: 900px;
+  padding: 0.1px;
+  margin-top: 50px;
+}
+.water-resistance-image-1 {
+  background-image: url(./image/34.jpg);
+  background-position: 100% 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+  height: 900px;
+  padding: 0.1px;
+}
+.water-resistance-text-1 {
+  color: #cecece;
+  font-weight: bold;
+  font-size: 50px;
+  margin-top: 630px;
+  margin-left: 600px;
+}
+.Emergency-SOS-bg {
+  background-color: #000000;
+  width: 100%;
+  height: 4405px;
+  margin-top: 50px;
+}
+.Emergency-SOS-image-1 {
+  background-image: url(./image/35.jpg);
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+  height: 900px;
+  padding: 0.1px;
+}
+.Emergency-sos-text-no-1 {
+  margin-top: 20px;
+  margin-left: 50px;
+}
+.Emergency-sos-text-1 {
+  font-size: 25px;
+  color: #cecece;
+}
+.Emergency-sos-text-2 {
+  font-size: 55px;
+  color: #86868b;
+}
+.Emergency-sos-text-no-2 {
+  margin-top: 200px;
+  margin-left: 300px;
+}
+.Emergency-SOS-no-2-image-2 {
+  display: inline-block;
+  background-image: url(./image/36.png);
+  background-position: 100% 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 330px;
+  height: 670px;
+}
+.Emergency-SOS-no-2-text-1 {
+  display: inline-block;
+  position: absolute;
+  margin-top: 300px;
+  margin-left: 100px;
+  color: #cecece;
+  font-size: 19px;
+}
+.Emergency-sos-text-no-3 {
+  margin-top: 200px;
+  margin-left: 300px;
+}
+.Emergency-SOS-no-3-image-3 {
+  display: inline-block;
+  background-image: url(./image/37.png);
+  background-position: 100% 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 330px;
+  height: 670px;
+}
+.Emergency-SOS-no-3-text-2 {
+  display: inline-block;
+  position: absolute;
+  margin-top: 280px;
+  margin-left: 100px;
+  color: #cecece;
+  font-size: 19px;
+}
+.Emergency-sos-text-no-4 {
+  margin-top: 200px;
+  margin-left: 300px;
+}
+.Emergency-SOS-no-3-image-4 {
+  display: inline-block;
+  background-image: url(./image/39.jpg);
+  background-position: 50%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 330px;
+  height: 670px;
+}
+.Emergency-SOS-no-3-text-3 {
+  display: inline-block;
+  position: absolute;
+  margin-top: 280px;
+  margin-left: 100px;
+  color: #cecece;
+  font-size: 19px;
+}
+.Emergency-sos-text-no-5 {
+  margin-top: 200px;
+  margin-left: 300px;
+}
+.Emergency-SOS-no-3-image-5 {
+  display: inline-block;
+  background-image: url(./image/41.jpg);
+  background-position: 50%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 330px;
+  height: 670px;
+}
+.Emergency-SOS-no-3-text-4 {
+  display: inline-block;
+  position: absolute;
+  margin-top: 280px;
+  margin-left: 100px;
+  color: #cecece;
+  font-size: 19px;
+}
+.A-camera-in-a-class-bg {
+  background-color: #000000;
+  width: 100%;
+  height: 2660px;
+  padding: 0.1px;
+  margin-top: 50px;
+}
+.A-camera-in-a-class-image-1 {
+  background-image: url(./image/42.jpg);
+  background-position: 100% 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+  height: 900px;
+  padding: 0.1px;
+}
+.A-camera-in-a-class-text-1 {
+  color: #cecece;
+  font-size: 55px;
+  font-weight: bold;
+  margin-top: 60px;
+  margin-left: 60px;
+}
+.A-camera-in-a-class-no-2-text {
+  display: inline-block;
+  color: #86868b;
+  margin-top: 130px;
+  margin-left: 200px;
+}
+.A-camera-in-a-class-text-2 {
+  font-size: 19px;
+  display: inline-block;
+  font-weight: bold;
+  margin-top: 160px;
+}
+.A-camera-in-a-class-image-2 {
+  display: inline-block;
+  position: absolute;
+  background-image: url(./image/43.jpg);
+  background-position: 100% 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 492px;
+  height: 369px;
+  margin-left: 50px;
+}
+.A-camera-in-a-class-no-3-text {
+  margin-top: 200px;
+  margin-left: 200px;
+  color: #86868b;
+}
+.A-camera-in-a-class-image-3 {
+  display: inline-block;
+  background-image: url(./image/44.jpg);
+  background-position: 100% 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 410px;
+  height: 547px;
+}
+.A-camera-in-a-class-no-4-text {
+  position: absolute;
+  display: inline-block;
+  margin-top: 50px;
+  margin-left: 60px;
+}
+.A-camera-in-a-class-text-3 {
+  color: #86868b;
+  font-weight: bold;
+  font-size: 20px;
+}
+.A-camera-in-a-class-text-4 {
+  color: #cecece;
+}
+.A-camera-in-a-class-no-5-text {
+  display: inline-block;
+  color: #86868b;
+  margin-top: 100px;
+  margin-left: 306px;
+}
+.A-camera-in-a-class-text-5 {
+  font-size: 19px;
+  display: inline-block;
+  font-weight: bold;
+  margin-top: 160px;
+}
+.A-camera-in-a-class-image-4 {
+  display: inline-block;
+  position: absolute;
+  background-image: url(./image/45.jpg);
+  background-position: 100% 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 803px;
+  height: 526px;
+  margin-left: 50px;
+}
+.Crash-Detection-bg {
+  background-color: #000000;
+  width: 100%;
+  height: 2600px;
+}
+.Crash-Detection-severe-car-image {
+  background-image: url(./image/46.jpg);
+  background-position: 100% 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+  height: 900px;
+  padding: 0.1px;
+}
+.Crash-Detection-severe-car-image-text {
+  margin-top: 80px;
+  margin-left: 80px;
+}
+.Crash-Detection-severe-car-image-text-1 {
+  font-size: 30px;
+  font-weight: bold;
+  color: #86868b;
+}
+.Crash-Detection-severe-car-image-text-2 {
+  font-size: 50px;
+  font-weight: bold;
+  color: #cecece;
+  margin-top: 10px;
+}
+.Hardware-sensors {
+  margin-top: 100px;
+  margin-left: 250px;
+}
+.Hardware-sensors-text {
+  display: inline-block;
+  margin-top: 220px;
+  margin-left: 170px;
+}
+.Hardware-sensors-text-1 {
+  color: #86868b;
+  font-size: 18px;
+  font-weight: bold;
+}
+.Hardware-sensors-text-2 {
+  color: #cecece;
+  font-size: 18px;
+  font-weight: bold;
+  margin-top: 40px;
+}
+.Hardware-sensors-image-1 {
+  display: inline-block;
+  position: absolute;
+  background-image: url(./image/47.jpg);
+  background-position: 100% 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 330px;
+  height: 670px;
+  margin-left: 60px;
+}
+.Over-1-million-hours {
+  margin-top: 280px;
+  margin-left: 350px;
+}
+.Over-1-million-hours-image-1 {
+  background-image: url(./image/48.jpg);
+  background-position: 100% 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 635px;
+  height: 847px;
+  padding: 0.1px;
+}
+.Over-1-million-hours-text {
+  background: -webkit-linear-gradient(180deg, #ffb6ff, #b344ff);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  margin-top: 330px;
+  margin-left: 145px;
+  font-size: 23px;
+}
+.iPhone-14-Pro-size-bg {
+  background-color: #000000;
+  width: 100%;
+  height: 561px;
+  margin-top: 50px;
+  padding: 0.1px;
+}
+.iPhone-14-Pro-size-image {
+  margin-top: 60px;
+  margin-left: 300px;
+}
+.iPhone-14-Pro-max-size-image-1 {
+  display: inline-block;
+}
+.iPhone-14-Pro-size-image-1 {
+  display: inline-block;
+  background-image: url(./image/49.jpg);
+  background-position: 100% 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 314px;
+  height: 287px;
+}
+.iPhone-14-Pro-size-image-1-text {
+  background: -webkit-linear-gradient(180deg, #ffb6ff, #b344ff);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-size: 33px;
+  margin-left: 130px;
+  margin-top: 35px;
+}
+.iPhone-14-Pro-size-image-1-text-1 {
+  background: -webkit-linear-gradient(180deg, #ffb6ff, #b344ff);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-size: 33px;
+  margin-left: 20px;
+  margin-top: 20px;
+}
+.iPhone-14-Pro-size-image-2 {
+  display: inline-block;
+  position: absolute;
+  margin-left: 100px;
+  margin-top: 70px;
+}
+.iPhone-14-Pro-size-img-2 {
+  background-image: url(./image/50.jpg);
+  background-position: 100% 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 289px;
+  height: 232px;
+}
+.iPhone-14-Pro-size-image-1-text-2 {
+  background: -webkit-linear-gradient(180deg, #ffb6ff, #b344ff);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-size: 33px;
+  margin-left: 115px;
+  margin-top: 20px;
+}
+.iPhone-14-Pro-size-image-1-text-3 {
+  background: -webkit-linear-gradient(180deg, #ffb6ff, #b344ff);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-size: 33px;
+  margin-left: 40px;
+  margin-top: 20px;
+}
+.Ways-to-save-text-no-1 {
+  margin-top: 180px;
+  margin-left: 210px;
+}
+.Ways-to-save-text-1 {
+  font-size: 50px;
+  font-weight: bold;
+}
+.Ways-to-save-all-bg {
+  margin-top: 50px;
+  margin-left: 210px;
+}
+.Ways-to-save-bg-no-1 {
+  display: inline-block;
+  background-color: #000000;
+  width: 313.33px;
+  height: 385.59px;
+  border-radius: 30px;
+  padding: 0.1px;
+}
+.Ways-to-save-bg-no-1-image-1 {
+  background-image: url(./image/51.png);
+  background-position: 100% 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 54px;
+  height: 46px;
+  margin-left: 30px;
+  margin-top: 30px;
+}
+.Ways-to-save-bg-no-1-text {
+  margin-left: 33px;
+  margin-top: 20px;
+}
+.Ways-to-save-bg-no-1-text-1 {
+  font-size: 28px;
+}
+.Ways-to-save-bg-no-1-text-2 {
+  margin-top: 20px;
+  color: #86868b;
+}
+.Ways-to-save-link {
+  position: relative;
+  top: 25px;
+  color: #b344ff;
+}
+.Ways-to-save-bg-no-2 {
+  position: absolute;
+  display: inline-block;
+  background-color: #000000;
+  width: 313.33px;
+  height: 385.59px;
+  border-radius: 30px;
+  padding: 0.1px;
+  margin-left: 30px;
+}
+.Ways-to-save-bg-no-2-image-1 {
+  background-image: url(./image/52.png);
+  background-position: 100% 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 54px;
+  height: 46px;
+  margin-left: 30px;
+  margin-top: 30px;
+}
+.Ways-to-save-bg-no-2-text {
+  margin-left: 33px;
+  margin-top: 20px;
+}
+.Ways-to-save-bg-no-2-text-1 {
+  font-size: 28px;
+}
+.Ways-to-save-bg-no-2-text-2 {
+  margin-top: 20px;
+  color: #86868b;
+}
+.Ways-to-save-link-2 {
+  position: relative;
+  top: 60px;
+  color: #b344ff;
+}
+.Ways-to-save-bg-no-3 {
+  position: absolute;
+  display: inline-block;
+  background-color: #000000;
+  width: 313.33px;
+  height: 385.59px;
+  border-radius: 30px;
+  padding: 0.1px;
+  margin-left: 370px;
+}
+.Ways-to-save-bg-no-3-image-1 {
+  background-image: url(./image/53.png);
+  background-position: 100% 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 54px;
+  height: 46px;
+  margin-left: 30px;
+  margin-top: 30px;
+}
+.Ways-to-save-bg-no-3-text {
+  margin-left: 33px;
+  margin-top: 20px;
+}
+.Ways-to-save-bg-no-3-text-1 {
+  font-size: 28px;
+}
+.Ways-to-save-bg-no-3-text-2 {
+  margin-top: 20px;
+  color: #86868b;
+}
+.Ways-to-save-link-3 {
+  position: relative;
+  top: 50px;
+  color: #b344ff;
+}
+.Designed-to-make-no-1 {
+  margin-top: 180px;
+  margin-left: 210px;
+}
+.Designed-to-make-text-1 {
+  font-size: 52px;
+  font-weight: bold;
+}
+.Designed-to-make-bg-no-1 {
+  display: inline-block;
+  background-color: #000000;
+  width: 313.33px;
+  height: 502px;
+  border-radius: 30px;
+  padding: 0.1px;
+  margin-left: 210px;
+  margin-top: 100px;
+}
+.Designed-to-make-bg-no-1-image-1 {
+  background-image: url(./image/54.png);
+  background-position: 100% 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 40px;
+  height: 40px;
+  margin-left: 134px;
+  margin-top: 80px;
+}
+.Designed-to-make-bg-no-1-text {
+  text-align: center;
+}
+.Designed-to-make-bg-no-1-text-1 {
+  margin-top: 30px;
+  font-size: 28px;
+  font-weight: bold;
+}
+.Designed-to-make-bg-no-1-link-1 {
+  position: relative;
+  top: 22px;
+  color: #b344ff;
+}
+.Designed-to-make-bg-no-1-image-2 {
+  background-image: url(./image/55.jpg);
+  background-position: 100% 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 150px;
+  height: 151px;
+  margin-top: 70px;
+  margin-left: 80px;
+}
+
+.Designed-to-make-bg-no-2 {
+  position: relative;
+  display: inline-block;
+  background-color: #000000;
+  width: 313.33px;
+  height: 502px;
+  border-radius: 30px;
+  padding: 0.1px;
+  margin-left: 20px;
+  margin-top: 100px;
+}
+.Designed-to-make-bg-no-2-image-1 {
+  background-image: url(./image/56.png);
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 34px;
+  height: 40px;
+  margin-left: 134px;
+  margin-top: 80px;
+}
+.Designed-to-make-bg-no-2-text {
+  text-align: center;
+}
+.Designed-to-make-bg-no-2-text-1 {
+  margin-top: 30px;
+  font-size: 28px;
+  font-weight: bold;
+}
+.Designed-to-make-bg-no-2-link-1 {
+  position: relative;
+  top: 22px;
+  color: #b344ff;
+}
+.Designed-to-make-bg-no-2-image-2 {
+  background-image: url(./image/57.jpg);
+  background-position: 100% 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 282px;
+  height: 217px;
+  margin-top: 33px;
+  border-radius: 20px;
+  margin-left: 20px;
+}
+.Designed-to-make-bg-no-3 {
+  position: relative;
+  display: inline-block;
+  background-color: #000000;
+  width: 313.33px;
+  height: 502px;
+  border-radius: 30px;
+  padding: 0.1px;
+  margin-left: 20px;
+  margin-top: 100px;
+}
+.Designed-to-make-bg-no-3-image-1 {
+  background-image: url(./image/58.png);
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 34px;
+  height: 40px;
+  margin-left: 134px;
+  margin-top: 80px;
+}
+.Designed-to-make-bg-no-3-text {
+  text-align: center;
+}
+.Designed-to-make-bg-no-3-text-1 {
+  margin-top: 30px;
+  font-size: 28px;
+  font-weight: bold;
+}
+.Designed-to-make-bg-no-3-link-1 {
+  position: relative;
+  top: 22px;
+  color: #b344ff;
+}
+.Designed-to-make-bg-no-3-image-2 {
+  background-image: url(./image/59.jpg);
+  background-position: 50% 0%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 283px;
+  height: 210px;
+  margin-top: 40px;
+  border-radius: 20px;
+  margin-left: 20px;
+}
+.Which-iPhone-no-1-text {
+  margin-top: 60px;
+  margin-left: 115px;
+}
+.Which-iPhone-no-1-text {
+  font-size: 50px;
+  display: inline-block;
+  font-weight: bold;
+  color: #cecece;
+}
+.Which-iPhone-no-1-link {
+  position: absolute;
+  display: inline-block;
+  font-size: 18px;
+  color: #b344ff;
+  text-decoration: none;
+  margin-top: 150px;
+  margin-left: 330px;
+}
+.Which-iPhone-buy {
+  margin-left: 100px;
+  margin-top: 20px;
+}
+.Which-iPhone-buy-iPhone-14-Pro {
+  display: inline-block;
+  margin-top: 100px;
+  margin-left: 250px;
+}
+.Which-iPhone-buy-iPhone-14-Pro-image {
+  display: inline-block;
+  background-image: url(./image/60.jpg);
+  background-position: 100% 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 190px;
+  height: 257px;
+}
+.Which-iPhone-buy-iPhone-14-Pro-image-2 {
+  background-image: url(./image/61.png);
+  background-position: 100% 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 68px;
+  height: 14px;
+  margin-top: 25px;
+  margin-left: 50px;
+}
+.Which-iPhone-buy-iPhone-14-Pro-text-1 {
+  color: #ba4b01;
+  font-size: 13px;
+  margin-top: 15px;
+  margin-left: 70px;
+}
+.Which-iPhone-buy-iPhone-14-Pro-image-3 {
+  background-image: url(./image/62.png);
+  background-position: 100% 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 137px;
+  height: 20px;
+  margin-left: 18px;
+  margin-top: 17px;
+}
+.Which-iPhone-buy-iPhone-14-Pro-text-2 {
+  margin-top: 15px;
+  margin-left: 5px;
+}
+.Which-iPhone-buy-iPhone-14-Pro-text-3 {
+  margin-top: 25px;
+  margin-left: 43px;
+  font-size: 15px;
+  font-weight: bold;
+}
+.Which-iPhone-buy-iPhone-14-Pro-bg-1 {
+  background-color: rgb(0, 113, 227);
+  width: 45px;
+  height: 24px;
+  border-radius: 20px;
+  margin-left: 58px;
+  margin-top: 20px;
+}
+.Which-iPhone-buy-iPhone-14-Pro-text-4 {
+  margin-left: 10px;
+  position: absolute;
+  font-size: 14px;
+  margin-top: 4px;
+}
+.Which-iPhone-buy-iPhone-14-Pro-link {
+  color: #2997ff;
+  font-size: 14px;
+  text-decoration: none;
+  margin-left: 40px;
+  margin-top: 18px;
+  position: absolute;
+}
+
+.Which-iPhone-buy-iPhone-14 {
+  display: inline-block;
+  margin-top: 100px;
+  margin-left: 250px;
+}
+.Which-iPhone-buy-iPhone-14-image {
+  display: inline-block;
+  background-image: url(./image/63.jpg);
+  background-position: 100% 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 180px;
+  height: 257px;
+}
+.Which-iPhone-buy-iPhone-14-image-2 {
+  background-image: url(./image/64.png);
+  background-position: 100% 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 104px;
+  height: 14px;
+  margin-top: 25px;
+  margin-left: 30px;
+}
+.Which-iPhone-buy-iPhone-14-text-1 {
+  color: #ba4b01;
+  font-size: 13px;
+  margin-top: 15px;
+  margin-left: 70px;
+}
+.Which-iPhone-buy-iPhone-14-image-3 {
+  background-image: url(./image/65.png);
+  background-position: 100% 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 98px;
+  height: 20px;
+  margin-left: 38px;
+  margin-top: 17px;
+}
+.Which-iPhone-buy-iPhone-14-text-2 {
+  margin-top: 15px;
+  margin-left: 8px;
+}
+.Which-iPhone-buy-iPhone-14-text-3 {
+  margin-top: 25px;
+  margin-left: 43px;
+  font-size: 15px;
+  font-weight: bold;
+}
+.Which-iPhone-buy-iPhone-14-bg-1 {
+  background-color: rgb(0, 113, 227);
+  width: 45px;
+  height: 24px;
+  border-radius: 20px;
+  margin-left: 58px;
+  margin-top: 20px;
+}
+.Which-iPhone-buy-iPhone-14-text-4 {
+  margin-left: 10px;
+  position: absolute;
+  font-size: 14px;
+  margin-top: 4px;
+}
+.Which-iPhone-buy-iPhone-link {
+  color: #2997ff;
+  font-size: 14px;
+  text-decoration: none;
+  margin-left: 42px;
+  margin-top: 18px;
+  position: absolute;
+}
+.Which-iPhone-no-2-text {
+  margin-top: 250px;
+  text-align: center;
+  font-size: 15px;
+  margin-left: -20px;
+}
+.smartphone-for-credit-text {
+  display: inline-block;
+}
+.smartphone-for-credit-text-2 {
+  margin-top: 20px;
+  margin-left: -15px;
+}
+.smartphone-for-credit-link-1 {
+  margin-left: -50px;
+  margin-top: 20px;
+  position: absolute;
+  color: #b344ff;
+  text-decoration: none;
+}
+.latest-iPhone-text {
+  display: inline-block;
+  margin-left: 100px;
+}
+.latest-iPhone-text-2 {
+  margin-top: 20px;
+  margin-left: -15px;
+}
+.latest-iPhone-link-1 {
+  margin-left: -50px;
+  margin-top: 20px;
+  position: absolute;
+  color: #b344ff;
+  text-decoration: none;
+}
+.latest-iPhone-bg-1 {
+  background-color: #86868b;
+  width: 980px;
+  height: 1px;
+  margin-top: 100px;
+  margin-top: 130px;
+  margin-left: 220px;
+}
+.free-delivery {
+  position: absolute;
+  margin-top: 100px;
+  margin-left: -50px;
+}
+.free-delivery-image {
+  background-image: url(./image/66.svg);
+  background-position: 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 36px;
+  height: 40px;
+  margin-left: 397px;
+}
+.free-delivery-text {
+  margin-top: 10px;
+}
+.free-delivery-text-1 {
+  font-size: 18px;
+  margin-left: 340px;
+  margin-top: 15px;
+}
+.free-delivery-text-2 {
+  text-align: center;
+  margin-left: 299px;
+  margin-top: 10px;
+  color: #86868b;
+}
+.free-delivery-link-1 {
+  margin-left: 372px;
+  margin-top: 16px;
+  position: absolute;
+  color: #b344ff;
+  text-decoration: none;
+}
+.Pay-monthly {
+  position: absolute;
+  margin-top: 97px;
+  margin-left: 260px;
+}
+.Pay-monthly-image {
+  background-image: url(./image/67.svg);
+  background-position: 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 36px;
+  height: 40px;
+  margin-left: 397px;
+}
+.Pay-monthly-text {
+  margin-top: 10px;
+}
+.Pay-monthly-text-1 {
+  font-size: 18px;
+  margin-left: 317px;
+  margin-top: 15px;
+}
+.Pay-monthly-text-2 {
+  text-align: center;
+  margin-left: 299px;
+  margin-top: 10px;
+  color: #86868b;
+}
+.Pay-monthly-link-1 {
+  margin-left: 372px;
+  margin-top: 16px;
+  position: absolute;
+  color: #b344ff;
+  text-decoration: none;
+}
+.Get-help-buying {
+  position: absolute;
+  margin-top: 97px;
+  margin-left: 570px;
+}
+.Get-help-buying-image {
+  background-image: url(./image/68.svg);
+  background-position: 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 36px;
+  height: 40px;
+  margin-left: 397px;
+}
+.Get-help-buying-text {
+  margin-top: 10px;
+}
+.Get-help-buying-text-1 {
+  font-size: 18px;
+  margin-left: 317px;
+  margin-top: 15px;
+}
+.Get-help-buying-text-2 {
+  text-align: center;
+  margin-left: 299px;
+  margin-top: 10px;
+  color: #86868b;
+}
+.Get-help-buying-link-1 {
+  margin-left: 372px;
+  margin-top: 16px;
+  position: absolute;
+  color: #b344ff;
+  text-decoration: none;
+}
+.Get-help-buying-bg-1 {
+  background-color: #86868b;
+  width: 980px;
+  height: 1px;
+  margin-top: 400px;
+  margin-left: 200px;
+}
